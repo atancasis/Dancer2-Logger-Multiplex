@@ -4,7 +4,7 @@ Dancer2::Logger::Multiplex - Log to multiple Dancer2::Logger engines
 
 # VERSION
 
-version 0.01
+version 0.02
 
 # SYNOPSIS
 
